@@ -1,0 +1,7 @@
+MyNameIsIntent my name is {myName}
+
+TalkAboutHistoryIntent Tell me about the history of ATR
+TalkAboutHistoryIntent Tell me about ATR's history
+TalkAboutHistoryIntent Tell me about the history of the lab
+TalkAboutHistoryIntent What's the history of the lab
+

@@ -1,0 +1,20 @@
+{
+  "name": "greeter",
+  "version": "1.0.0",
+  "description": "ATR greeter powered by Alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AI",
+    "Alexa",
+    "Robotics",
+    "Telerobotics"
+  ],
+  "author": "ATR - Irvin Steve Cardenas",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7"
+  }
+}
